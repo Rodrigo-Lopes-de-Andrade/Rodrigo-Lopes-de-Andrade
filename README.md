@@ -1,11 +1,11 @@
 ### Rodrigo Lopes de Andrade - [Data Scientist] 👋
 
-## I am an electrical engineer turned data scientist who loves leveraging data-driven solutions that make an impact on business and society!
+## engenheiro civil, cientista de dados sempre em busca de soluções baseadas em dados que causam impacto nos negócios e na sociedade!!
 
-- 💻 I’m currently working as a Data Science Instructor
-- 💻 I'm also working for a company specialized on Artificial Intelligence (AI) and High Technology
-- 📈 I’m constantly learning and Improving my skills 🤣
-- 📊 I’m looking to collaborate with other Data Scientists and developers 
+- 💻 Atualmente estou trabalhando como Engenheiro de Manutenção
+- 💻 Estou cursando MBA Business Analytics e Big Data
+- 📈 Estou constantemente aprendendo e melhorando minhas habilidades 🤣
+- 📊 Pretendo colaborar com outros cientistas de dados e desenvolvedores
 
 ### Connect with me:
 
