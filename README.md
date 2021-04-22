@@ -21,7 +21,7 @@
 
 ### Linguagens e ferramentas:
 
-<img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+<img align="left" alt="python" width="26px" src="https://github.com/Rodrigo-Lopes-de-Andrade/Portifolio_Rodrigo_Andrade/blob/main/Python.png" />
 
 <img align="left" alt="python" width="26px" src="https://github.com/Rodrigo-Lopes-de-Andrade/Portifolio_Rodrigo_Andrade/blob/main/R.png" />
 
