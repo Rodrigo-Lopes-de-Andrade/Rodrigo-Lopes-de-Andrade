@@ -45,7 +45,7 @@
 
 ---
 
-### 📕 Últimas postagens do blog
+### 📕 Artigos e Projetos 
 
 <!-- BLOG-POST-LIST:START -->
 * [Buying a car as a Data Scientist](https://towardsdatascience.com/buying-a-car-as-a-data-scientist-5a2f9f340292) 
