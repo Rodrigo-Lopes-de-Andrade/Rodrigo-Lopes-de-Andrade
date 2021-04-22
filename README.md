@@ -1,6 +1,6 @@
 ### Rodrigo Lopes de Andrade - [Data Scientist] 👋
 
-## engenheiro civil, apaixonado poe estatistica e ciência de dados, sempre em busca de soluções baseadas em dados que causam impacto nos negócios e na sociedade!!
+## Engenheiro civil, apaixonado por estatística e ciência de dados, sempre em busca de soluções baseadas em dados que causam impacto nos negócios e na sociedade!!
 
 - 💻 Atualmente estou trabalhando como Engenheiro de Manutenção
 - 💻 Estou cursando MBA Business Analytics e Big Data
