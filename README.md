@@ -11,7 +11,7 @@
 
 [<img align="left"  width="22px" src="https://github.com/Rodrigo-Lopes-de-Andrade/Portifolio_Rodrigo_Andrade/blob/main/LKD.png" />](https://www.linkedin.com/in/rodrigo-lopes-de-andrade-51753246/)
 
-[<img align="left" alt="cabreirajm | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/rodrigo-lopesandrade)
+[<img align="left" alt="cabreirajm | medium" width="22px" src="https://github.com/Rodrigo-Lopes-de-Andrade/Portifolio_Rodrigo_Andrade/blob/main/M2.png" />](https://medium.com/rodrigo-lopesandrade)
 
 [<img align="left" alt="jhon_cabreira | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/rodrigo.lopesandrade)
 
