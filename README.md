@@ -7,7 +7,7 @@
 - 📈 Estou constantemente aprendendo e melhorando minhas habilidades 🤣
 - 📊 Pretendo colaborar com outros cientistas de dados e desenvolvedores
 
-### Connect with me:
+### Conecte-se comigo:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/rodrigo-lopes-de-andrade-51753246/)
 
@@ -19,7 +19,7 @@
 
 <br />
 
-### Languages and Tools:
+### Linguagens e ferramentas:
 
 <img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
