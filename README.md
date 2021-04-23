@@ -3,8 +3,8 @@
 ## Engenheiro civil, apaixonado por estatística e ciência de dados, sempre em busca de soluções baseadas em dados que causam impacto nos negócios e na sociedade!
 
 - 💻 Atualmente estou trabalhando como Engenheiro de Manutenção
-- 💻 Estou cursando MBA Business Analytics e Big Data
-- 📈 Estou constantemente aprendendo e melhorando minhas habilidades 🤣
+- 💻 Cursando MBA Business Analytics e Big Data
+- 📈 Constantemente aprendendo e melhorando minhas habilidades 🤣
 - 📊 Pretendo colaborar com outros cientistas de dados e desenvolvedores
 
 ### Conecte-se comigo:
