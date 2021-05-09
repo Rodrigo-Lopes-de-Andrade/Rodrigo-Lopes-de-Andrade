@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Rodrigo-Lopes-de-Andrade/Portifolio_Rodrigo_Andrade/main/1.JPG" >
+</p>
+
 ### Rodrigo Lopes de Andrade - [Cientista de Dados] 👋
 
 ## Engenheiro civil, apaixonado por estatística e ciência de dados, sempre em busca de soluções baseadas em dados que causam impacto nos negócios e na sociedade!
