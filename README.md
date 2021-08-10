@@ -1,9 +1,9 @@
 <p align="center">
     <a href="https://medium.com/rodrigo-lopesandrade" alt="Contributors">
-        <img src="https://img.shields.io/badge/sigmoidal-ai-yellow" />
+        <img src="https://img.shields.io/badge/rla-ai-yellow" />
     </a>
     <img src="/img/python-logo.svg">
-    <a href="https://github.com/carlosfab/sigmoidal_ai/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+    <a href="https://raw.githubusercontent.com/Rodrigo-Lopes-de-Andrade/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
 </p>
 
 <p align="left">
