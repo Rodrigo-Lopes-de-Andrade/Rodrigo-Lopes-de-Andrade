@@ -1,4 +1,10 @@
-<img src="http://views.whatilearened.today/views/github/Rodrigo-Lopes-de-Andrade/views.svg"/> <a href="https://github.com/Rodrigo-Lopes-de-Andrade"><img src="https://img.shields.io/github/followers/Rodrigo-Lopes-de-Andrade?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a> <img src="https://img.shields.io/badge/Back End-Python/R-f55247"/>
+<p align="center">
+    <a href="https://medium.com/rodrigo-lopesandrade" alt="Contributors">
+        <img src="https://img.shields.io/badge/sigmoidal-ai-yellow" />
+    </a>
+    <img src="/img/python-logo.svg">
+    <a href="https://github.com/carlosfab/sigmoidal_ai/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+</p>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Rodrigo-Lopes-de-Andrade/Portifolio_Rodrigo_Andrade/main/LOGORLA.JPG" >
