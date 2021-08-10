@@ -12,10 +12,7 @@
 - 💻 Cursando MBA Business Analytics e Big Data
 - 📈 Constantemente aprendendo e melhorando minhas habilidades 🤣
 - 📊 Pretendo colaborar com outros cientistas de dados e desenvolvedores
-
 </p>
-
-<br />
 
 ### Conecte-se comigo:
 
@@ -24,8 +21,6 @@
 <a href="https://instagram.com/rodrigo.lopesandrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodrigo.lopesandrade" height="30" width="40" /></a>
 <a href="https://medium.com/rodrigo-lopesandrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rodrigo-lopesandrade" height="30" width="40" /></a>
 </p>
-
-<br />
 
 ### Linguagens e ferramentas:
 
