@@ -13,6 +13,9 @@
 - 📈 Constantemente aprendendo e melhorando minhas habilidades 🤣
 - 📊 Pretendo colaborar com outros cientistas de dados e desenvolvedores
 
+</p>
+
+<br />
 
 ### Conecte-se comigo:
 
