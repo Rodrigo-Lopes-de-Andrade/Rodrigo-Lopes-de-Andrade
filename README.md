@@ -1,8 +1,8 @@
 <p align="center">
     <a href="https://medium.com/rodrigo-lopesandrade" alt="Contributors">
-        <img src="https://img.shields.io/badge/rla-ai-yellow" />
+        <img src="https://img.shields.io/badge/rla-datascience-yellow" />
     </a>
-   <img src="http://views.whatilearened.today/views/github/Prof-Rodrigo-Silva/views.svg"/> <a href="https://github.com/Prof-Rodrigo-Silva/"><img src="https://img.shields.io/github/followers/Prof-Rodrigo-Silva?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a> <img src="https://img.shields.io/badge/Back End-Java/R/Dart-f55247"/>
+   <img src="http://views.whatilearened.today/views/github/Rodrigo-Lopes-de-Andrade/views.svg"/> <a href="https://github.com/Rodrigo-Lopes-de-Andrade/"><img src="https://img.shields.io/github/followers/Rodrigo-Lopes-de-Andrade?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a> <img src="https://img.shields.io/badge/Back EndJava/R/Dart-f55247"/>
 </p>
 
 <p align="left">
