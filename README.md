@@ -28,6 +28,7 @@
 
 <br />
 <br />
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Lopes-de-Andrade&theme=dark&show_icons=true)
 
 
