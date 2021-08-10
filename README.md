@@ -21,13 +21,6 @@
 <a href="https://medium.com/rodrigo-lopesandrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rodrigo-lopesandrade" height="30" width="40" /></a>
 </p>
 
-[<img align="left"  width="22px" src="https://github.com/Rodrigo-Lopes-de-Andrade/Portifolio_Rodrigo_Andrade/blob/main/LKD.png" />](https://www.linkedin.com/in/rodrigo-lopes-de-andrade-51753246/)
-
-[<img align="left" alt="cabreirajm | medium" width="22px" src="https://github.com/Rodrigo-Lopes-de-Andrade/Portifolio_Rodrigo_Andrade/blob/main/M2.png" />](https://medium.com/rodrigo-lopesandrade)
-
-[<img align="left" alt="jhon_cabreira | Instagram" width="22px" src="https://github.com/Rodrigo-Lopes-de-Andrade/Portifolio_Rodrigo_Andrade/blob/main/TL.png" />](https://www.instagram.com/rodrigo.lopesandrade)
-
-
 
 <br />
 
