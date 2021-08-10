@@ -29,8 +29,6 @@
 <br />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodrigo-Lopes-de-Andrade&theme=radicalshow_icons=true&locale=en&layout=compact"alt="codewithgauri" /></p>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Lopes-de-Andrade&theme=radical&show_icons=true)
 
 ---
