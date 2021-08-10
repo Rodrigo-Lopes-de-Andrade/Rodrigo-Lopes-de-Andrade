@@ -1,14 +1,24 @@
+
 <p align="center">
     <a href="https://medium.com/rodrigo-lopesandrade" alt="Contributors">
-        <img src="https://img.shields.io/badge/RLA-Data Science-yellow" />
+        <img src="https://img.shields.io/badge/Medium-RLA Data Science-magenta" />
     </a>
+<a href="https://linkedin.com/in/rodrigo-lopes-de-andrade-51753246" alt="Contributors">
+        <img src="https://img.shields.io/badge/Linkedin-Rodrigo Lopes de Andrade-cyan" />
+    </a>
+<a href="https://github.com/Rodrigo-Lopes-de-Andrade" alt="Contributors">
+        <img src="https://img.shields.io/badge/GitHub-Rodrigo Lopes de Andrade-purple" />
+       </a>
    <img src="http://views.whatilearened.today/views/github/Rodrigo-Lopes-de-Andrade/views.svg"/> <a href="https://github.com/Rodrigo-Lopes-de-Andrade/"><img src="https://img.shields.io/github/followers/Rodrigo-Lopes-de-Andrade?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a> 
-    <img src="https://img.shields.io/badge/Back End-Python/R/Power BI-f55247"/>
-</p>
-
-<p align="left">
+    </a>
+<p align="center">
   <img src="https://raw.githubusercontent.com/Rodrigo-Lopes-de-Andrade/Portifolio_Rodrigo_Andrade/main/LOGORLA.JPG" >
-</p>
+
+
+
+ 
+ 
+
 
 ### Rodrigo Lopes de Andrade - [Cientista de Dados] 👋
 
