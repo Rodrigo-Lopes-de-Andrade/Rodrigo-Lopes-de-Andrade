@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="left">
     <a href="https://medium.com/rodrigo-lopesandrade" alt="Contributors">
         <img src="https://img.shields.io/badge/Medium-RLA Data Science-magenta" />
     </a>
