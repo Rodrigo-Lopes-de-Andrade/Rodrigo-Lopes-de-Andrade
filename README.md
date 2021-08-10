@@ -28,8 +28,8 @@
 
 <br />
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Lopes-de-Andrade&theme=midnight-purple_icons=true)
-Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Lopes-de-Andrade&theme=radical&show_icons=true)
+
 
 
 ---
