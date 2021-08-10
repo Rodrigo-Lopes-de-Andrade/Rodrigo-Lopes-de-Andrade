@@ -11,7 +11,7 @@
        </a>
    <img src="http://views.whatilearened.today/views/github/Rodrigo-Lopes-de-Andrade/views.svg"/> <a href="https://github.com/Rodrigo-Lopes-de-Andrade/"><img src="https://img.shields.io/github/followers/Rodrigo-Lopes-de-Andrade?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a> 
     </a>
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/Rodrigo-Lopes-de-Andrade/Portifolio_Rodrigo_Andrade/main/LOGORLA.JPG" >
 
 
