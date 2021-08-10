@@ -15,6 +15,12 @@
 
 ### Conecte-se comigo:
 
+<p align="left">
+<a href="https://linkedin.com/in/rodrigo-lopes-de-andrade-51753246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo-lopes-de-andrade-51753246" height="30" width="40" /></a>
+<a href="https://instagram.com/rodrigo.lopesandrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodrigo.lopesandrade" height="30" width="40" /></a>
+<a href="https://medium.com/rodrigo-lopesandrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rodrigo-lopesandrade" height="30" width="40" /></a>
+</p>
+
 [<img align="left"  width="22px" src="https://github.com/Rodrigo-Lopes-de-Andrade/Portifolio_Rodrigo_Andrade/blob/main/LKD.png" />](https://www.linkedin.com/in/rodrigo-lopes-de-andrade-51753246/)
 
 [<img align="left" alt="cabreirajm | medium" width="22px" src="https://github.com/Rodrigo-Lopes-de-Andrade/Portifolio_Rodrigo_Andrade/blob/main/M2.png" />](https://medium.com/rodrigo-lopesandrade)
