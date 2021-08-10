@@ -31,8 +31,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Lopes-de-Andrade&theme=radical&show_icons=true)
 
-
-
 ---
 
 ### 📕 Artigos e Projetos 
