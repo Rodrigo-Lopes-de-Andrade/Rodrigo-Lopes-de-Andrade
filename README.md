@@ -52,7 +52,7 @@
 ### 📕 Artigos e Projetos 
 
 <!-- BLOG-POST-LIST:START -->
-* [Buying a car as a Data Scientist](https://towardsdatascience.com/buying-a-car-as-a-data-scientist-5a2f9f340292) 
+* [Sistema de Classificação de Risco](https://github.com/Rodrigo-Lopes-de-Andrade/Artigos_e_Projetos/blob/main/Sistema_Classifica%C3%A7%C3%A3o_Risco.ipynb) 
 * [Using Data Science for Customer Acquisition](https://towardsdatascience.com/using-data-science-for-customer-acquisition-2001525792f)
 * [Tuning a Model’s Hyperparameters and Aiming for a Specific Metric in Accordance with the Business Scenario](https://towardsdatascience.com/tuning-a-models-hyperparameters-and-aiming-for-a-specific-metric-in-accordance-with-the-business-3c47d534ed3b)
 
