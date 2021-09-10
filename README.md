@@ -53,8 +53,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 * [Sistema de Classificação de Risco](https://github.com/Rodrigo-Lopes-de-Andrade/Artigos_e_Projetos/blob/main/Sistema_Classifica%C3%A7%C3%A3o_Risco.ipynb) 
-* [Using Data Science for Customer Acquisition](https://towardsdatascience.com/using-data-science-for-customer-acquisition-2001525792f)
-* [Tuning a Model’s Hyperparameters and Aiming for a Specific Metric in Accordance with the Business Scenario](https://towardsdatascience.com/tuning-a-models-hyperparameters-and-aiming-for-a-specific-metric-in-accordance-with-the-business-3c47d534ed3b)
+* [Análise de Dados do Airbnb](https://raw.githubusercontent.com/Rodrigo-Lopes-de Andrade/Artigos_e_Projetos/main/An%C3%A1lise_dos_Dados_do_Airbnb__Rio__de__Janeiro.ipynb)
+
 
 
 
