@@ -54,7 +54,7 @@
 <!-- BLOG-POST-LIST:START -->
 * [Sistema de Classificação de Risco](https://github.com/Rodrigo-Lopes-de-Andrade/Artigos_e_Projetos/blob/main/Sistema_Classifica%C3%A7%C3%A3o_Risco.ipynb) 
 * [Análise de Dados do Airbnb Rio de Janeiro](https://github.com/Rodrigo-Lopes-de-Andrade/Artigos_e_Projetos/blob/main/An%C3%A1lise_dos_Dados_do_Airbnb__Rio__de__Janeiro.ipynb)
-
+* [Previsão de Renda com Random Forest](https://github.com/Rodrigo-Lopes-de-Andrade/Artigos_e_Projetos/blob/main/Sistema_Classifica%C3%A7%C3%A3o_Risco.ipynb)
 
 
 
