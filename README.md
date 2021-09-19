@@ -56,6 +56,7 @@
 * [Análise de Dados do Airbnb Rio de Janeiro](https://github.com/Rodrigo-Lopes-de-Andrade/Artigos_e_Projetos/blob/main/An%C3%A1lise_dos_Dados_do_Airbnb__Rio__de__Janeiro.ipynb)
 * [Previsão de Renda com Random Forest](https://github.com/Rodrigo-Lopes-de-Andrade/Artigos_e_Projetos/blob/main/Previs%C3%A3o_de_Salario_Random_Forest_Classifier_Feature_Importance.ipynb)
 * [Segurança de Veículos com Decision Tree](https://github.com/Rodrigo-Lopes-de-Andrade/Artigos_e_Projetos/blob/main/Classificador__Arvore_de_Decis%C3%A3o_Seguran%C3%A7a_de_Ve%C3%ADculos.ipynb)
+* [Classificador de Vinhos](https://github.com/Rodrigo-Lopes-de-Andrade/Artigos_e_Projetos/blob/main/Qualidade_do_vinho_tinto_EDA_classifica%C3%A7%C3%A3o.ipynb)
 
 
 
