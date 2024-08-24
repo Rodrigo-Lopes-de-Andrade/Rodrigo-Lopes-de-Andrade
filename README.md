@@ -67,6 +67,6 @@
 
 
 
-[medium]: https://medium.com/rodrigo-lopesandrade
+[site]: https://eurecabi.com/
 [linkedin]: https://www.linkedin.com/in/rodrigo-lopes-de-andrade-51753246/
 [instagram]: https://www.instagram.com/rodrigo.lopesandrade
