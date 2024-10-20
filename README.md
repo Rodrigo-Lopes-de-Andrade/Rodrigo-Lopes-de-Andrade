@@ -43,6 +43,14 @@
   
 </div>
 
+### Most popular repositories
+
+<div>
+  <a href="https://github.com/Rodrigo-Lopes-de-Andrade/Modelos_de_Projetos"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=Modelos_de_Projetos&bg_color=00000000&hide_border=true&locale=en" /></a>
+
+</div>
+
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rodrigo-Lopes-de-Andrade}/count.svg" /></p> 
@@ -51,12 +59,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-### Most popular repositories
 
-<div>
-  <a href="https://github.com/Rodrigo-Lopes-de-Andrade/Modelos_de_Projetos"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_calendario_m&bg_color=00000000&hide_border=true&locale=en" /></a>
-
-</div>
 
 
 
