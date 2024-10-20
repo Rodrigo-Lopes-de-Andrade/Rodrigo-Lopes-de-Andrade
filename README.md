@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/Rodrigo-Lopes-de-Andrade" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for-the-badge&color=1b63ca&labelColor=151b23" height="32" /></a>
+  <a href="https://github.com/Rodrigo-Lopes-de-Andrade" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Rodrigo-Lopes-de-Andrade?logo=github&style=for-the-badge&color=1b63ca&labelColor=151b23" height="32" /></a>
   <a href="https://linkedin.com/in/alisonpezzott" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height=32 alt="linkedin logo" /></a>
   <a href="https://instagram.com/alisonpezzott"   ><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height=32 alt="instagram logo" /></a>
 </div>
